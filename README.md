@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Heroes of Might & Magic III: The Board Game<br>Random Hero Generator</h1>
 
-    <h1><a href="https://homm3bgherorandomizer.streamlit.app/"> WEBSITE </a></h1>
+  <h1><a href="https://homm3bgherorandomizer.streamlit.app/"> WEBSITE </a></h1>
 </div>
 
 ## References
